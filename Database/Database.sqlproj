@@ -67,5 +67,11 @@
     <Build Include="schema\exp.sql" />
     <Build Include="exp\Tables\Empleado.sql" />
     <Build Include="dbo\Tables\Provincia.sql" />
+    <Build Include="dbo\Tables\Canton.sql" />
+    <Build Include="dbo\Tables\Distrito.sql" />
+    <Build Include="exp\Store Procedures\EmpleadoInsertar.sql" />
+    <Build Include="exp\Store Procedures\EmpleadoActualizar.sql" />
+    <Build Include="exp\Store Procedures\EmpleadoEliminar.sql" />
+    <Build Include="exp\Store Procedures\EmpleadoObtener.sql" />
   </ItemGroup>
 </Project>
